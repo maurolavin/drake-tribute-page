@@ -1,0 +1,84 @@
+html {
+    font-size: 10px;
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color: #ffffff;
+    background-color: #161616;
+}
+
+#title {
+    font-size: 4rem;
+    font-family: helvetica-now-display;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+#subtitle {
+    font-size: 2rem;
+    font-family: helvetica-now-display;
+    text-align: center;
+    margin: 0px auto 0 auto;
+}
+
+#image  {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #f42b17;
+    }
+
+#img-caption {
+    font-family: helvetica-now-display;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 5px auto 5px auto;
+
+}
+
+#prelude {
+
+    font-family: helvetica-now-display;
+    font-size: 2.5rem;
+    text-align:justify;
+    max-width: 600px;
+    margin: 0px auto 0px auto;
+}
+
+#headline {
+    font-family: helvetica-now-display;
+    font-size: 3.5rem;
+    text-align: center;
+    max-width: 70rem;
+    margin: 3rem auto 0px auto;
+}
+
+ul {
+    max-width: 600px;
+    font-family: helvetica-now-display;
+    font-size: 2.5rem;
+    text-align: left;
+    margin: 5px auto 0px auto;
+    line-height: 1.6;
+    display: block;
+    color: #161616;
+    background-color: #f42b17;
+}
+
+#tribute-link, #moreinfo {
+    font-family: helvetica-now-display;
+    font-size: 2rem;
+    text-align: center;
+    background-color: #f42b17;
+    color: #ffffff;
+}
+
+#tribute-link:hover, #tribute-link:active {
+    color: #161616;
+}
